@@ -1,0 +1,10 @@
+.idea
+node_modules/*
+temp
+test.*		
+*.html
+*.map
+bootstrap.css
+bootstrap-theme.css
+bootstrap.js
+

@@ -1,0 +1,17 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.border {
+    border: 1px solid gray;
+}
+.red { border-color: red; }
+.green { border-color: green; }
+.blue { border-color: blue; }
+.yellow { border-color: yellow; }
+
