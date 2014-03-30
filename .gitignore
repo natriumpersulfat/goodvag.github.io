@@ -2,9 +2,11 @@
 node_modules/*
 temp
 test.*		
-*.html
+navbar.html
+layout.html
 *.map
 bootstrap.css
 bootstrap-theme.css
 bootstrap.js
+
 
